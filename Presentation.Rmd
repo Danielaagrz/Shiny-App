@@ -1,0 +1,37 @@
+---
+title: "A Neuroscience related- Stock App"
+author: "Daniela Aguilar"
+date: "12/05/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Neuroscience related- Stock App? why?
+
+**Neuroscience**, the study of the brain and behavior. It is a life science which has rapidly evolved in the past decades. Similarly, companies have developed medicines and treatments for disorders of the central nervous system. Some of these disorders include Parkinson's, Schizophrenia, Depression, Multiple Sclerosis, among many others. 
+
+
+## This is a trending topic!
+
+The study of the brain is only in its infancy. Thus, not surprisingly not many companies have been founded with the specific goal to develop medicines and treatments for the brain. However, companies that have the right research and available resources can be of high value across the globe.
+
+## Some of the current companies are: 
+
+- Minerva Neurosciences
+- Acadia
+- Sage Therapeutics
+- Vertex Pharmaceuticals
+- Axsome Therapeutics
+- Mind Medicine
+
+## Look at their performance here
+
+Follow their performance across the past year using [this app](https://danielaaguilar.shinyapps.io/Shinyapp/?_ga=2.209711954.1590573906.1620847177-611882640.1620847177)
+
+
+**What do you think? Should we invest in one of them?**
+
+

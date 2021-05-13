@@ -1,7 +1,7 @@
-# Shiny-App
+# Shiny-App 
 
 You will find an application in which you can see the performance from a selective group of stocks.
-These are related to Neuroscience 
+These are related to Neuroscience. Click on the link to look at it https://danielaaguilar.shinyapps.io/Shinyapp/?_ga=2.209711954.1590573906.1620847177-611882640.1620847177 
 
 On the sidebar panel you can select the stock(s) you would like to see. Tou can select or deselect 
 all of the as well.
